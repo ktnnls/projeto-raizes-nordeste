@@ -8,6 +8,9 @@ Este projeto foi desenvolvido como requisito acadêmico para o **Projeto Multidi
 ## 📝 Descrição
 Interface Front-End para a rede Raízes do Nordeste, focada na modernização do atendimento via cardápio digital. Sistema completo com gestão de pedidos, programa de fidelidade e simulação de pagamentos. Desenvolvido em React/Vite com design responsivo otimizado para Web, Mobile e Totens de autoatendimento. Foco em performance e conformidade com a LGPD.
 
+<img width="1919" height="1079" alt="Captura de tela 2026-06-26 192425" src="https://github.com/user-attachments/assets/c5502dd7-b359-4eac-ad23-92930cf2002f" />
+
+
 ## 🚀 Tecnologias Utilizadas
 - **React.js** (Biblioteca para construção da interface)
 - **Vite** (Build tool rápida)
@@ -25,6 +28,7 @@ Interface Front-End para a rede Raízes do Nordeste, focada na modernização do
 ## 🖥️ Acesso ao Projeto
 Você pode visualizar o projeto funcional clicando no link:
 https://projeto-raizes-nordeste.vercel.app
+
 
 ## 👤 Autor
 - **Aluno:** Luis Enrique Oliveira de Abreu
