@@ -1,16 +1,29 @@
-# React + Vite
+# Raízes do Nordeste - Projeto Front-End
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interface Front-End desenvolvida para a rede de lanchonetes "Raízes do Nordeste". O sistema visa modernizar o atendimento ao cliente, integrando funcionalidades de cardápio digital, gestão de pedidos, programa de fidelidade e processamento simulado de pagamentos.
 
-Currently, two official plugins are available:
+## 📝 Descrição do Projeto
+Interface Front-End para a rede Raízes do Nordeste, focada na modernização do atendimento via cardápio digital. Sistema completo com gestão de pedidos, programa de fidelidade e simulação de pagamentos. Desenvolvido em React/Vite com design responsivo otimizado para Web, Mobile e Totens de autoatendimento. Foco em performance e conformidade com a LGPD.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias Utilizadas
+- **React.js** (Biblioteca para construção da interface)
+- **Vite** (Build tool rápida)
+- **CSS3 / Styled Components** (Estilização)
+- **React Router** (Navegação)
+- **Deploy:** Vercel
 
-## React Compiler
+## ⚙️ Funcionalidades Principais
+- **Cardápio Dinâmico:** Navegação intuitiva entre categorias de produtos.
+- **Programa de Fidelidade:** Sistema de acúmulo e resgate de pontos diretamente no carrinho.
+- **Carrinho de Compras:** Resumo de pedidos com cálculos automáticos.
+- **Design Responsivo:** Adaptado para Mobile, Desktop e Totens de autoatendimento.
+- **Conformidade LGPD:** Banner de consentimento integrado para proteção de dados.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🖥️ Acesso ao Projeto
+Você pode visualizar o projeto funcional clicando no link abaixo:
+https://projeto-raizes-nordeste.vercel.app
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👤 Autor
+Projeto desenvolvido como requisito do Projeto Multidisciplinar – Trilha Front-End.
+- **Aluno:** Luis Enrique Oliveira de Abreu
+- **RU:** 4742690
