@@ -23,7 +23,7 @@ Interface Front-End para a rede Raízes do Nordeste, focada na modernização do
 - **Conformidade LGPD:** Banner de consentimento integrado para proteção de dados.
 
 ## 🖥️ Acesso ao Projeto
-Você pode visualizar o projeto funcional clicando no link abaixo:
+Você pode visualizar o projeto funcional clicando no link:
 https://projeto-raizes-nordeste.vercel.app
 
 ## 👤 Autor
