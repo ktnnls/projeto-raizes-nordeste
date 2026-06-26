@@ -2,7 +2,10 @@
 
 Interface Front-End desenvolvida para a rede de lanchonetes "Raízes do Nordeste". O sistema visa modernizar o atendimento ao cliente, integrando funcionalidades de cardápio digital, gestão de pedidos, programa de fidelidade e processamento simulado de pagamentos.
 
-## 📝 Descrição do Projeto
+## 🎓 Sobre o Projeto
+Este projeto foi desenvolvido como requisito acadêmico para o **Projeto Multidisciplinar – Trilha Front-End** do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas** da **UNINTER (Centro Universitário Internacional)**. O objetivo é aplicar conceitos de engenharia de software e design de interfaces na construção de uma solução escalável e funcional.
+
+## 📝 Descrição
 Interface Front-End para a rede Raízes do Nordeste, focada na modernização do atendimento via cardápio digital. Sistema completo com gestão de pedidos, programa de fidelidade e simulação de pagamentos. Desenvolvido em React/Vite com design responsivo otimizado para Web, Mobile e Totens de autoatendimento. Foco em performance e conformidade com a LGPD.
 
 ## 🚀 Tecnologias Utilizadas
@@ -24,6 +27,6 @@ Você pode visualizar o projeto funcional clicando no link abaixo:
 https://projeto-raizes-nordeste.vercel.app
 
 ## 👤 Autor
-Projeto desenvolvido como requisito do Projeto Multidisciplinar – Trilha Front-End.
 - **Aluno:** Luis Enrique Oliveira de Abreu
 - **RU:** 4742690
+- **Instituição:** UNINTER – Análise e Desenvolvimento de Sistemas
